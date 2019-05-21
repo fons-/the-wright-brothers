@@ -65,4 +65,4 @@ def check(verbose=False):
 
 
 if __name__ == "__main__":
-    print(check(True))
+    assert(check(True))
